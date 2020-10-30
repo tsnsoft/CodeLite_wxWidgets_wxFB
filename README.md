@@ -1,5 +1,5 @@
 # CodeLite_WxWidgets_wxFB
- CodeLite с WxWidgets и wxFormBuilder
+ CodeLite с wxWidgets и wxFormBuilder
 
 **Скачивать репозиторий только через GitHub Desktop, иначе не скачаются все файлы!**
 
